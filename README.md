@@ -1,6 +1,6 @@
 # ML System Design Doc - [RU]
 
-## Дизайн ML системы - [Tubi Feedback Analyzer MVP v1](https://code.tubitv.com/using-pre-trained-nlp-models-to-interpret-user-feedback-at-tubi-6dffecf46510)
+## Дизайн ML системы - [Using Pre-Trained NLP Models to Interpret User Feedback at Tubi](https://code.tubitv.com/using-pre-trained-nlp-models-to-interpret-user-feedback-at-tubi-6dffecf46510)
 
 ### 1. Цели и предпосылки
 
